@@ -1,0 +1,14 @@
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.AssemblyReference.cache
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfoInputs.cache
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfo.cs
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.CoreCompileInputs.cache
+C:\Users\daniela.lage\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.exe
+C:\Users\daniela.lage\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.deps.json
+C:\Users\daniela.lage\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.json
+C:\Users\daniela.lage\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.dev.json
+C:\Users\daniela.lage\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.dll
+C:\Users\daniela.lage\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.pdb
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.dll
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.pdb
+C:\Users\daniela.lage\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.genruntimeconfig.cache

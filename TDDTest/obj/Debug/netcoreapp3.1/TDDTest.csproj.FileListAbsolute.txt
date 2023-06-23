@@ -1,0 +1,6 @@
+C:\Users\daniela.lage\source\repos\TDD\TDDTest\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\daniela.lage\source\repos\TDD\TDDTest\obj\Debug\netcoreapp3.1\TDDTest.csproj.AssemblyReference.cache
+C:\Users\daniela.lage\source\repos\TDD\TDDTest\obj\Debug\netcoreapp3.1\TDDTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniela.lage\source\repos\TDD\TDDTest\obj\Debug\netcoreapp3.1\TDDTest.AssemblyInfoInputs.cache
+C:\Users\daniela.lage\source\repos\TDD\TDDTest\obj\Debug\netcoreapp3.1\TDDTest.AssemblyInfo.cs
+C:\Users\daniela.lage\source\repos\TDD\TDDTest\obj\Debug\netcoreapp3.1\TDDTest.csproj.CoreCompileInputs.cache
